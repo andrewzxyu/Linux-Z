@@ -21,3 +21,4 @@ Cliente estendido em Luau para Roblox. Interface completa, editor de scripts, IA
 ## Como contribuir
 
 Abre uma issue ou manda uma sugestão no Discord.
+==============================================================÷÷÷÷÷÷÷÷÷÷÷÷
